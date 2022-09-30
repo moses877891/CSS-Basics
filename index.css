@@ -1,0 +1,30 @@
+body{
+    font-family: serif;
+}
+
+p{
+    color:#76252f;
+    opacity: 0.85;
+}
+
+ol{
+    color:#76252f;
+    line-height: 40px;
+}
+
+ul{
+    color:#76252f;
+    letter-spacing: 8px;
+}
+
+.underLine{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.link1{
+    color: #76252f;;
+    background-color: yellow;
+    text-decoration: none;
+    font-style: italic;
+}
